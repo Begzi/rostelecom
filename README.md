@@ -1,4 +1,4 @@
-REST API c заданием и путям: <br>
+REST API c заданием и путями: <br>
 1)	Создания задачи; URL/api/store (post)  <br>
 2)	Получения статуса выполнения задачи; URL/api/show/{task} (get) <br>
 3)	Остановка выполнения задачи; URL/api/stop/{task} (delete)<br>
